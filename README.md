@@ -18,5 +18,5 @@ React Tabs is a versatile React component library designed to streamline the imp
 
 ## Live Preview
 
-https://react-tabs-functionality.vercel.app/
+https://react-tabs-sw1h.vercel.app
 
